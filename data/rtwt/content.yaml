@@ -1,0 +1,4 @@
+home:
+  image: 'images/avatar.jpg'
+  greetings: 'Welcome to Retro Tech Dreams'
+  text: 'A blog about retro tech, restoring tech, and more.'
