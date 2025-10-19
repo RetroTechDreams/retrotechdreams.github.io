@@ -1,4 +1,4 @@
-baseURL = 'https://retrotechdreams.github.io/'
+baseURL = 'https://retrotechdreams.github.io'
 languageCode = 'en-us'
 title = 'Retro Tech Dreams'
 theme = 'rusty-typewriter'
